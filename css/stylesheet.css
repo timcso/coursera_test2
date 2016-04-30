@@ -29,7 +29,6 @@
 }
 /*header*/
 #header-nav {
-  background-color: #f6b319;
   border-radius: 0;
   border: 0;
 }
@@ -38,7 +37,6 @@
 }
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
-  color: #557c3e;
   font-size: 1.5em;
   text-transform: uppercase;
   font-weight: bold;
@@ -54,7 +52,6 @@
   margin-top: 10px;
 }
 #nav-list a {
-  color: #951C49;
   text-align: center;
 }
 #nav-list a:hover {
