@@ -26,64 +26,6 @@
     width: 100%;
   }
 }
-div{
-  position: absolute;
-}
-#s1{
-  position: relative;
-  padding-top: 40px;
-  background-color: #FFB266;
-  border: 1px solid black;
-  font-size: 100%;
-  font-family: arial;
-}
-#s2{
-  position: relative;
-  padding-top: 40px;
-  background-color: #FFB266;
-  border: 1px solid black;
-  font-size: 100%;
-  font-family: arial;
-}
-#s3{
-  position: relative;
-  padding-top: 40px;
-  background-color: #FFB266;
-  border: 1px solid black;
-  font-size: 100%;
-  font-family: arial;
-}
-section.title {
-    width: 150px;
-    padding: 5px;
-    margin: 0px;
-    text-align: center;
-    font-weight: bold;
-    border: 1px solid black;
-    font-family: arial;
-
-}
-section#s1 section.title{
-  background-color: #FF99CC;
-  position: absolute;
-  top: 0px;
-    right: 0px;
-    font-size: 125%;
-}
-section#s2 section.title{
-  background-color: #00FF80;
-  position: absolute;
-  top: 0px;
-    right: 0px;
-    font-size: 125%;
-}
-section#s3 section.title{
-  background-color: #FFCCE5;
-  position: absolute;
-  top: 0px;
-    right: 0px;
-    font-size: 125%;
-}
 h1{
   text-align: center;
   font-family: arial;
