@@ -1,3 +1,6 @@
+*{
+  box-sizing: border-box;
+}
 @media (min-width: 992px){
 }
 @media (min-width: 768px) and (max-width: 991px){
@@ -52,14 +55,35 @@
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
-#main-content{
-  box-sizing: border-box;
-  width: 100%;
-}
-#main-content section{
-  width: 100%;
-  height: 100%;
-  background: #EE6A50;
+section{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: -5px;
+  margin-left: -5px;
   padding: 10px;
-  margin: 10px;
+  background: #EE6A50;
 }
+/*#main-content{
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+.row{
+  margin-left: 2px;
+  margin-right: 5px
+}
+#chicken{
+  background: #EE6A50;
+  margin: 5px;
+  padding: 10px;
+}
+#beef{
+  background: #EE6A50;
+  margin: 5px;
+  padding: 10px;
+}
+#sushi{
+  background: #EE6A50;
+  margin: 5px;
+  padding: 10px;
+}*/
